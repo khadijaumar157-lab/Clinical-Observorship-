@@ -1,8 +1,17 @@
-Case 5: Gastrointestinal Infection and Vitamin K Administration
-Case Profile
-This infant presented with symptoms of gastrointestinal infection, including altered stool patterns. As part of routine neonatal and pediatric care, vitamin K injections had been administered earlier to prevent hemorrhagic disease of the newborn. Stool inspection was an important component of assessment, as variations in color and consistency provided clues to hydration status, infection, and possible malabsorption.
-The medical team closely monitored intake, output, and signs of dehydration.
-What I Learned & Gained
-I learned how stool characteristics can be a diagnostic tool in pediatrics, offering insight into gastrointestinal health. I also understood the preventive role of vitamin K and how early interventions can avert life threatening complications. This case strengthened my understanding of basic yet critical clinical observations.
-Personal Reflection
-This case taught me that medicine often begins with observation. Before advanced tests, clinicians rely on careful inspection and pattern recognition. It reminded me that small details—often overlooked—can guide big decisions in patient care.
+**Case 5: Gastrointestinal Infection and Vitamin K Administration**
+
+**Case Profile**
+
+This infant presented with gastrointestinal symptoms, including altered stool patterns suggestive of infection or malabsorption. Stool examination played a central role in assessing hydration status, digestive function, and potential microbial involvement.
+
+Vitamin K administration, part of routine neonatal care, was noted for its role in preventing hemorrhagic disease, especially in infants with immature gut microbiota and limited endogenous synthesis.
+
+**What I Learned & Gained**
+
+I learned how gut microbiota, nutrition, and coagulation biology intersect in early life. Stool characteristics served as a non-invasive diagnostic indicator, reflecting underlying physiological and microbial processes.
+
+This case emphasized the importance of preventive interventions and how seemingly simple measures like vitamin supplementation are grounded in biological necessity.
+
+**Personal Reflection**
+
+This case reminded me that biology often reveals itself through careful observation. It reinforced my interest in microbiology and nutritional biology, particularly how early-life interventions can prevent severe downstream consequences.
